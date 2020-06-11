@@ -11,9 +11,15 @@ This app is for searching for info about various entertainment outlets
 <h3>concert-this</h3>
 
 ![Concert-this](/images/concert-this.png)
+
 <h3>movie-this</h3>
+
 ![movie-this](/images/movie-this.png)
+
 <h3>spotify-this</h3>
+
 ![spotify-this](/images/spotify-this.png)
+
 <h3>do-what-it-says</h3>
+
 ![do-what-it-says](/images/do-what-it-says.png)
