@@ -26,7 +26,7 @@ This app is for searching for info about various entertainment outlets
 
 
 Contributors:
-*Anthony Carmack
-*Diana Mayhugh
-*Dana Nobile
-*Andy Edstrom
+-Anthony Carmack
+-Diana Mayhugh
+-Dana Nobile
+-Andy Edstrom
