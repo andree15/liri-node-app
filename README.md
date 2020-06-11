@@ -23,3 +23,10 @@ This app is for searching for info about various entertainment outlets
 <h3>do-what-it-says</h3>
 
 ![do-what-it-says](/images/do-what-it-says.png)
+
+
+Contributors:
+Anthony Carmack
+Diana Mayhugh
+Dana Nobile
+Andy Edstrom
